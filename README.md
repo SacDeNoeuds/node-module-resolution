@@ -30,3 +30,5 @@ node-module-resolution-test
 node ./project/toto/index.js
 node ./project/tata/index.js
 ```
+
+Guess what: it works.
